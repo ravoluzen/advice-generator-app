@@ -10,8 +10,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 A web app that displays pieces of advice using the Advice Slip API: [https://api.adviceslip.com/]
 ### Screenshot
