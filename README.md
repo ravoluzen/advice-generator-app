@@ -18,8 +18,8 @@ A web app that displays pieces of advice using the Advice Slip API: [https://api
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/advice-generator-app-fL9WhOolV](https://your-solution-url.com)
-- Live Site URL: [https://ravoluzen.github.io/advice-generator-app/](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/advice-generator-app-fL9WhOolV)
+- [Live Site URL](https://ravoluzen.github.io/advice-generator-app/)
 
 ### Built with
 
